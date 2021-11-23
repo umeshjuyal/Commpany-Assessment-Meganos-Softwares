@@ -1,0 +1,256 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+/* Icon */
+/* .nav-item {
+position: absolute;
+width: 38px;
+height: 31.7px;
+left: 0px;
+top: -0.11px;
+/* background: url(.png); */
+
+.navbar{
+  height: 64px;
+width: 1440px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+}
+.header-top img {
+position: absolute;
+width: 38px;
+height: 31.7px;
+left: 0px;
+top: -0.11px;
+/* background: url( frame abreviated logo-white.png); */
+}
+.nav-item a {
+height: 24px;
+width: 162px;
+left: 0px;
+top: 0px;
+border-radius: nullpx;
+}
+.nav-item ::after{
+content: workouts;
+height: 24px;
+width: 115px;
+left: 204px;
+top: 0px;
+border-radius: nullpx;
+}
+
+/* About */
+.nav-item a::after{
+  content: About;
+height: 24px;
+width: 74px;
+left: 360px;
+top: 0px;
+border-radius: nullpx;
+}
+
+/* Eclipse */
+.nav-item a::after{
+  content: Eclipse;
+position: absolute;
+width: 12.25px;
+height: 6.12px;
+left: 26.38px;
+top: 34.12px;
+border: 1.5px solid #FFFFFF;
+}
+.nav-item a::after{
+  content: Rectangle;
+position: absolute;
+width: 11.4px;
+height: 10.11px;
+left: 26.8px;
+top: 21px;
+border: 1.5px solid #FFFFFF;
+border-radius: 20px;
+}
+/* shop now */
+
+.nav-item ::after{
+content: shop now;
+position: absolute;
+left: 4.46%;
+right: 4.46%;
+top: 37.04%;
+bottom: 37.96%;
+float: 100px;
+
+/* Buttons/Large */
+font-family: Obviously;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+/* Functional/White */
+color: #FFFFFF;
+}
+/* Our Story */
+
+.header-content{
+position: absolute;
+width: 527px;
+height: 80px;
+left: calc(50% - 527px/2 - 280.5px);
+top: calc(40% - 70px/2);
+
+/* Headers/H3 */
+font-family: Obviously;
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 40px;
+/* or 125% */
+/* Functional/Black 90% */
+color: #1A1A1A;
+}
+.header-para{
+position: absolute;
+width: 639px;
+height: 160px;
+left: 540px;
+top: 156px;
+/* Body Large/Body Large Regular */
+font-family: Bennet Text One;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* or 133% */
+display: flex;
+align-items: center;
+/* Functional/Black 90% */
+ color: #1A1A1A; 
+}
+.row img{
+/* 20210913_IACollaborative_20-5224_copy 1 */
+position: absolute;
+width: 900px;
+height: 616px;
+left: -100px;
+top: 400px; 
+}
+.right-img img{
+position: absolute;
+width: 280px;
+height: 507px;
+left: 700px;
+top: 480px;
+}
+
+/* Single Hue/ Lilac */
+
+/* background: linear-gradient(180deg, #ECD8FF 0%, #FFFFFF 100%); */
+.center-div{
+position: absolute;
+width: 416px;
+height: 187px;
+left: 64px;
+top: 1092px;
+
+
+/* Body Small/Body Small Regular */
+font-family: Obviously;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+/* Functional/Black 90% */
+color: #1A1A1A;
+}
+.left-content {
+  position: absolute;
+width: 416px;
+height: 187px;
+left: 624px;
+top: 30px;
+/* Body Small/Body Small Regular */
+font-family: Obviously;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+/* Functional/Black 90% */
+color: #1A1A1A;
+}
+.footer-top img {
+position: absolute;
+width: 1440px;
+height: 424px;
+left: 0px;
+top: 340px;
+/* Gradients/Storm light */
+background: linear-gradient(0deg, #EDEDED 0%, #D9B2FF 100%);
+}
+.footer img {
+position: absolute;
+width: 1440px;
+height: 332px;
+left: 0px;
+bottom: 0px;
+top: 750px;
+/* Functional/Black 100% */
+background: #000000;
+}
+.logo img{
+  position: absolute;
+  width: 12.25px;
+  height: 6.12px;
+  left: 26.38px;
+  top: 34.12px;
+ /* Functional/White */
+   border: 1.5px solid #FFFFFF;
+}
+.logo1 img{
+  position: absolute;
+width: 11.4px;
+height: 10.11px;
+left: 26.8px;
+top: 21px;
+/* Functional/White */
+border: 1.5px solid #FFFFFF;
+border-radius: 20px;
+
+}
+.logo2 img{
+  position: absolute;
+  width: 31px;
+  height: 32px;
+  right: 0px;
+  top: 0px;
+  /* Subheader/S3 */
+  font-family: Obviously;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 20px;
+  /* or 167% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+   /* Functional/White */
+  color: #FFFFFF;
+  
+}
+
+
+
+
+
+ 
